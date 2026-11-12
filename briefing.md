@@ -31,7 +31,7 @@ Runner-up direct options if G25 sells out, same day:
 
 **G25 route — stations called at between Beijing and Shanghai (3 station calls in total; 1 intermediate stop):**
 
-| # | Station | Arrival | Departure |
+| # | Station | Arrival | Departure |:
 |---|---|---|---|
 | 1 | Beijing South (北京南) | — | 17:00 |
 | 2 | **Nanjing South (南京南)** | 20:14 | 20:16 (2-min dwell) |
@@ -84,7 +84,7 @@ Only one intermediate call — Nanjing South, a 2-minute dwell — which is why 
 | Headline figure | FY2026 |
 |---|---|
 | **Total revenue** | **US$478.83 bn** |
-| **Net income** | **US$132.18 bn** |
+| Net income | **US$132.18 bn** |
 
 **Supporting detail (FY2026):** gross profit $233.60 bn (≈48.8% margin); operating income $158.06 bn (≈33.0%); pretax income $159.24 bn; tax provision $27.06 bn; R&D $45.77 bn (9.6% of revenue); diluted EPS $8.98.
 
