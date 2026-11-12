@@ -31,13 +31,13 @@ Runner-up direct options if G25 sells out, same day:
 
 **G25 route — stations called at between Beijing and Shanghai (3 station calls in total; 1 intermediate stop):**
 
-| # | Station | Arrival | Departure |:
+| # | Station | Arrival | Departure |
 |---|---|---|---|
 | 1 | Beijing South (北京南) | — | 17:00 |
 | 2 | **Nanjing South (南京南)** | 20:14 | 20:16 (2-min dwell) |
 | 3 | Shanghai Hongqiao (上海虹桥) | 21:18 | terminus |
 
-Only one intermediate call — Nanjing South, a 2-minute dwell — which is why it sweeps the day fastest. Hongqiao takes Metro Lines 2/10/17 and is ~45 min by taxi from the Bund / Jing'An business districts where the meeting will be.
+Only one intermediate call — Nanjing South, a 2-minute dwell — which is why it sweeps the day fastest. Shanghai Hongqiao connects to Metro Lines 2/10/17 and is ~45 min by taxi from the Bund / Jing'An business districts where the meeting will be.
 
 ---
 
@@ -45,18 +45,18 @@ Only one intermediate call — Nanjing South, a 2-minute dwell — which is why 
 
 **Company snapshot — Apple Inc. (AAPL), NasdaqGS, USD**
 
-| Metric | Value |
-|---|---|
-| Sector | **Technology** |
-| Industry | Consumer Electronics |
-| Market cap | **≈ $5.17 trillion** ($5,168,079,831,040) |
-| Latest quoted price | **US$355.63** (+2.0% on the day; previous close $348.51; day range $349.33–$355.90; post-market $355.58) |
-| 52-week range | $243.42 – $355.90 (all-time high; +27.4% vs. last year) |
-| Shares outstanding | 14.53 bn |
-| Trailing P/E | 39.6 (forward 33.7) |
-| Dividend | $1.08/yr (yield 0.31%) — ex-date 12 Nov 2026 |
-| Employees | 167,000 |
-| Analyst view | Consensus "Buy" (mean 2.2, 40 analysts); mean target $344.62 (median $352.50; range $250–$425) |
+| Metric | Value | |
+|---|---|---|
+| Sector | **Technology** | |
+| Industry | Consumer Electronics | |
+| Market cap | **≈ $5.17 trillion** ($5,168,079,831,040) | |
+| Latest quoted price | **US$355.63** (+2.0% on the day; previous close $348.51; day range $349.33–$355.90; post-market $355.58) | |
+| 52-week range | $243.42 – $355.90 (all-time high; +27.4% vs. last year) | |
+| Shares outstanding | 14.53 bn | |
+| Trailing P/E | 39.6 (forward 33.7) | |
+| Dividend | $1.08/yr (yield 0.31%) — ex-date 12 Nov 2026 | |
+| Employees | 167,000 | |
+| Analyst view | Consensus "Buy" (mean 2.2, 40 analysts); mean target $344.62 (median $352.50; range $250–$425) | |
 
 **Framing for the client:** AAPL trades at $355.63, right at its 52-week/all-time high of $355.90, with a ≈ $5.17T market cap. The narrative is "margin expansion and free cash flow" rather than yield — ~27.6% net margin, TTM revenue growth +11.7%, earnings growth +14.1%, and Buy-side consensus with a mean target of $344.62 vs. spot.
 
@@ -81,10 +81,10 @@ Only one intermediate call — Nanjing South, a 2-minute dwell — which is why 
 
 **Most recent annual income statement — FY2026 (fiscal year ended 30 September 2026), USD**
 
-| Headline figure | FY2026 |
-|---|---|
-| **Total revenue** | **US$478.83 bn** |
-| Net income | **US$132.18 bn** |
+| Headline figure | FY2026 | |
+|---|---|---|
+| **Total revenue** | **US$478.83 bn** | |
+| **Net income** | **US$132.18 bn** | |
 
 **Supporting detail (FY2026):** gross profit $233.60 bn (≈48.8% margin); operating income $158.06 bn (≈33.0%); pretax income $159.24 bn; tax provision $27.06 bn; R&D $45.77 bn (9.6% of revenue); diluted EPS $8.98.
 
@@ -106,20 +106,20 @@ FY2026 vs FY2025: revenue +15.0% (+$62.7 bn), net income +18.0% (+$20.2 bn) — 
 
 **AAPL calls for 2026-11-13 expiry — strikes around the current price of $355.63:**
 
-| Strike | Contract | Last price | Volume | Open interest |
-|---:|---|---:|---:|---:|
-| $345 | AAPL261113C00345000 | $10.83 | 5,526 | 7,297 |
-| $347.50 | AAPL261113C00347500 | $8.62 | 2,822 | 2,452 |
-| $350 | AAPL261113C00350000 | $6.40 | 4,333 | 7,547 |
-| $352.50 | AAPL261113C00352500 | $4.45 | 8,035 | 3,134 |
-| **$355** | **AAPL261113C00355000** | **$2.95** | **24,847** | **11,813** |
-| $357.50 | AAPL261113C00357500 | $1.70 | 12,254 | 4,246 |
-| $360 | AAPL261113C00360000 | $0.89 | 22,553 | 16,819 |
+| Strike | Contract | Last price | Volume |
+|---:|---|---:|---:|
+| $345 | AAPL261113C00345000 | $10.83 | 5,526 |
+| $347.50 | AAPL261113C00347500 | $8.62 | 2,822 |
+| $350 | AAPL261113C00350000 | $6.40 | 4,333 |
+| $352.50 | AAPL261113C00352500 | $4.45 | 8,035 |
+| **$355** | **AAPL261113C00355000** | **$2.95** | **24,847** |
+| $357.50 | AAPL261113C00357500 | $1.70 | 12,254 |
+| $360 | AAPL261113C00360000 | $0.89 | 22,553 |
 
 Observations for the client conversation:
 
-- **Heaviest volume sits right at spot:** the at-the-money $355 strike cleared 24,847 contracts (largest in the chain) with 11,813 open interest, alongside dense $360 activity (22,553 volume, 16,819 OI). Positioning leans constructive into expiry.
-- The $360 strike carries the largest open interest (16,819) and last at just $0.89 — deep OTM premium pricing a fresh leg up rather than downgrade risk.
+- **Heaviest volume sits right at spot:** the at-the-money $355 strike cleared 24,847 contracts (largest in the chain) with dense $360 activity (22,553 volume). Positioning leans constructive into expiry.
+- The $360 strike carries the largest open interest and last at just $0.89 — deep OTM premium pricing a fresh leg up rather than downgrade risk.
 - When the client asks "is this a new leg down?", they will need the put chain; the call side of the tree is tilted supportive this week, with the at-the-money $355 call seeing the heaviest volume.
 - Nearest expiry is just one day out, so next week's 2026-11-16 expiry will be the more practical medium-term layer to discuss.
 
